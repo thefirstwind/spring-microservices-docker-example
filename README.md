@@ -18,8 +18,8 @@ Please read [Build Spring Microservices and Dockerize them for Production](https
 To install this example application, run the following commands:
 
 ```bash
-git clone https://github.com/oktadeveloper/okta-spring-microservices-docker-example.git
-cd okta-spring-microservices-docker-example
+git clone https://github.com/thefirstwind/spring-microservices-docker-example.git
+cd spring-microservices-docker-example
 ```
 
 ### Create an Okta Developer Account
